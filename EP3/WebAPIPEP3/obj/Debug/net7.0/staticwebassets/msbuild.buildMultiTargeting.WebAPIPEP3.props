@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAPIPEP3.props" />
+</Project>
